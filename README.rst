@@ -113,10 +113,10 @@ Output Files
 
 Other useful links
 ==================
+:Homepage: http://fame.edbc.org/smart/
 :Example data: http://methymark.edbc.org/SMART/Example.html
-:Our Local UCSC browser: http://210.46.81.49/genomebrowser/cgi-bin/hgTracks?db=hg19&hubUrl=http://210.46.81.49/BSEntropyHub/hub.txt&hgS_loadUrlName=http://210.46.81.49/BSEntropyHub/MySessions/BSSeq_SupEnhancer
-:QDMR: http://bioinfo.hrbmu.edu.cn/qdmr/
-:UCSC Genome browser:  http://genome.ucsc.edu/
+:PyPI package: https://pypi.org/project/SMART-BS-Seq/
+:QDMR: http://fame.edbc.org/qdmr/
 
 Contact 
 ==================
